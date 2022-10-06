@@ -1,0 +1,2 @@
+#!/bin/bash
+cbmod ug+x,o+r hello
